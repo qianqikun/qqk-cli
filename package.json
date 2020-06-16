@@ -2,7 +2,7 @@
   "name": "qqk-cli",
   "version": "1.0.0",
   "description": "",
-  "main": "babel.config.js",
+  "main": "bin/cli.js",
   "bin": "bin/cli.js",
   "dependencies": {
     "chalk": "^4.1.0",
@@ -14,6 +14,6 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "QQK",
   "license": "ISC"
 }

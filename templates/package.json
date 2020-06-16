@@ -72,7 +72,10 @@
           "alignAttributesVertically": true,
           "ignores": []
         }
-      ]
+      ],
+      "space-before-function-paren": 0,
+      "comma-dangle":"off",
+      "no-prototype-builtins":"off"
     }
   },
   "browserslist": [
